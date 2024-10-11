@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SDS",
+    "   "
+  ],
+  "key": {
+    "S": {
+      "item": "gaflab:shadowrite_ingot"
+    },
+    "D": {
+      "item": "minecraft:diamond_helmet"
+    }
+  },
+  "result": {
+    "item": "gaflab:shadowrite_helmet"
+  }
+}

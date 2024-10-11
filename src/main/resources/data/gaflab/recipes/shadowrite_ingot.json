@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "gaflab:shadowrite_ore"
+  },
+  "result": "gaflab:shadowrite_ingot",
+  "experience": 8,
+  "cookingtime": 200
+}

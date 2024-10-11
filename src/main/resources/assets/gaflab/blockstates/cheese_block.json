@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": {"model": "gaflab:block/cheese_block" }
+  }
+}

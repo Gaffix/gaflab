@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "gaflab:ice_cream_block"
+      }
+    ],
+    "result": {
+      "count": 9,
+      "item": "gaflab:ice_cream_ball"
+    }
+  }
+  

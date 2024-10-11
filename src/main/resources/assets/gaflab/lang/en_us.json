@@ -1,0 +1,57 @@
+{
+  "item.gaflab.shadowrite_ingot": "Shadowrite Ingot",
+  "item.gaflab.raw_shadowrite": "Raw Shadowrite",
+
+  "item.gaflab.zaza_seeds": "Zaza Seeds",
+
+  "item.gaflab.morando": "Morando",
+  "item.gaflab.truffle": "Truffle",
+  "item.gaflab.ice_cream": "Ice Cream",
+  "item.gaflab.bintilin": "Bintilin",
+  "item.gaflab.asparagus": "Asparagus",
+  "item.gaflab.coffee": "Coffee",
+  "item.gaflab.big_chillin": "Big Chillin'",
+  "item.gaflab.cone": "Ice Cream Cone",
+  "item.gaflab.ice_cream_ball": "Ice Cream Ball",
+  "item.gaflab.zaza": "Zaza",
+  "item.gaflab.farinha_cumbuca": "Farinha na Cumbuca",
+
+  "item.gaflab.assembler": "Assembler",
+  "item.gaflab.rusty_assembler": "Rusty Assembler",
+  "item.gaflab.pharaohs_book": "Pharaoh's Book",
+  "item.gaflab.death_note": "Death Note",
+
+  "item.gaflab.shadowrite_sword": "Shadowrite Sword",
+  "item.gaflab.shadow_reaver": "Shadow Reaver",
+  "item.gaflab.asparagus_sword": "Asparagus Sword",
+  "item.gaflab.leviathan_axe": "Leviathan Axe",
+  "item.gaflab.chaos_blade": "Chaos Blade",
+
+  "item.gaflab.shadowrite_pickaxe": "Shadowrite Pickaxe",
+
+  "item.gaflab.shadowrite_helmet": "Shadowrite Helmet",
+  "item.gaflab.shadowrite_chestplate": "Shadowrite Chestplate",
+  "item.gaflab.shadowrite_leggings": "Shadowrite Leggings",
+  "item.gaflab.shadowrite_boots": "Shadowrite Boots",
+
+  "item.gaflab.warden_heart": "Warden Heart",
+  "item.gaflab.dragon_essence": "Dragon Essence",
+  "item.gaflab.diamond_handle": "Diamond Handle",
+  "item.gaflab.flame_ring": "Flame Ring",
+
+  "block.gaflab.ice_cream_block": "Ice Cream Block",
+  "block.gaflab.trobium_ore": "Trobium Ore",
+  "block.gaflab.shadowrite_ore": "Shadowrite Ore",
+  "block.gaflab.gmetal_block": "GMetal Block",
+  "block.gaflab.cheese_block": "Cheese Block",
+
+  "block.gaflab.assembling_table": "Assembling Table",
+
+  "entity.gaflab.skully": "Skully",
+
+  "itemGroup.gaflab.GAFLAB_BLOCKS": "GafLab Blocks",
+  "itemGroup.gaflab.GAFLAB_FOOD": "GafLab Food",
+  "itemGroup.gaflab.GAFLAB_COMBAT": "GafLab Combat",
+  "itemGroup.gaflab.GAFLAB_UTILITIES": "GafLab Utilities",
+  "itemGroup.gaflab.GAFLAB_MATERIALS": "GafLab Materials"
+}

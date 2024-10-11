@@ -1,0 +1,55 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "gaflab:block/assembling_table"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 4], "texture": "#1"},
+				"east": {"uv": [0, 4, 4, 8], "texture": "#1"},
+				"south": {"uv": [4, 0, 8, 4], "texture": "#1"},
+				"west": {"uv": [4, 4, 8, 8], "texture": "#1"},
+				"up": {"uv": [4, 12, 0, 8], "texture": "#1"},
+				"down": {"uv": [12, 0, 8, 4], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [36, 0, 0],
+			"translation": [0, 0, 1.25],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [36, 0, 0],
+			"translation": [0, 0, 1.25],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [5, 0, 0],
+			"translation": [-0.75, 0.5, 0.5],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"firstperson_lefthand": {
+			"rotation": [5, 0, 0],
+			"translation": [-0.75, 0.5, 0.5],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"ground": {
+			"translation": [0, 3.75, 0],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"gui": {
+			"rotation": [28, -44.06, -1.31],
+			"translation": [0.25, 0, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"fixed": {
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}

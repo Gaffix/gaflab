@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "gaflab:big_chillin"
+      }
+    },
+    "result": {
+      "item": "gaflab:bintilin"
+    }
+  }

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "S S",
+    "SDS"
+  ],
+  "key": {
+    "S": {
+      "item": "gaflab:shadowrite_ingot"
+    },
+    "D": {
+      "item": "minecraft:diamond_boots"
+    }
+  },
+  "result": {
+    "item": "gaflab:shadowrite_boots"
+  }
+}

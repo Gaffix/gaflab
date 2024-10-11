@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": {
+        "item": "gaflab:cone"
+      },
+      "X": {
+        "item": "gaflab:ice_cream_ball"
+      }
+    },
+    "pattern": [
+      "X",
+      "#"
+    ],
+    "result": {
+      "item": "gaflab:ice_cream"
+    }
+  }

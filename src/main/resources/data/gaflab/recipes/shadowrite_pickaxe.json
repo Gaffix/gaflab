@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    " H ",
+    " H "
+  ],
+  "key": {
+    "S": {
+      "item": "gaflab:shadowrite_ingot"
+    },
+    "H": {
+      "item": "gaflab:diamond_handle"
+    }
+  },
+  "result": {
+    "item": "gaflab:shadowrite_pickaxe"
+  }
+}
